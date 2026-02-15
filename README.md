@@ -70,7 +70,7 @@ npm run dev
 
 ## Links
 
-- [Live Site](https://)
+- [Live Site](https://pe2holidazed.netlify.app)
 - [GitHub Repository](https://github.com/QueenWoofie/PE2_Holidaze)
 - [Figma Design & Style Guide](https://)
 - [Kanban Board](https://)
