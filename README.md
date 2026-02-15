@@ -72,9 +72,11 @@ npm run dev
 
 - [Live Site](https://pe2holidazed.netlify.app)
 - [GitHub Repository](https://github.com/QueenWoofie/PE2_Holidaze)
-- [Figma Design & Style Guide](https://)
-- [Kanban Board](https://)
-- [Gannt Chart](https://)
+- [Figma Style Guide](https://www.figma.com/design/PhJg93S6OdzLNXatlwgNRC/Project-Exam-2--Holidaze?node-id=0-1&t=OuLCeFrPMbTuIp5y-1)
+- [Figma Desktop Prototype](https://www.figma.com/proto/PhJg93S6OdzLNXatlwgNRC/Project-Exam-2--Holidaze?node-id=2-2&t=OuLCeFrPMbTuIp5y-1)
+- [Figma Phone Prototype](https://www.figma.com/proto/PhJg93S6OdzLNXatlwgNRC/Project-Exam-2--Holidaze?node-id=84-2554&t=OuLCeFrPMbTuIp5y-1&show-proto-sidebar=1)
+- [Kanban Board](https://github.com/users/QueenWoofie/projects/10/views/1)
+- [Gannt Chart](https://github.com/users/QueenWoofie/projects/10/views/4)
 
 ## 📧 Contact & Acknowledgments
 
